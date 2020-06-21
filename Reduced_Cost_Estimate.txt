@@ -1,0 +1,5 @@
+To reduce to $6,500, we choosed to
+* switch to provisioned plans for EC2 and RDS, all upfront 3 years in advance. This drastically reduces our flexibility in the future, but reduces the average monthly bill
+* switch to t3a instead of t3, which are slightly cheaper AMD-based instances
+
+Other opportunities exist, like using optimized EC2 instead of general purpose (already the case for RDS), but we just don't know the requirements of the application and webserver.

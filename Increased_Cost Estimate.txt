@@ -1,0 +1,8 @@
+With an increased budget, we decide to:
+* Have a hot disaster recovery in region US east Ohio
+* Use IOPS SSD for the RDS servers, as well as the EC2 instances
+* Change S3 media files policy to keep them longer in Standard S3 vs IA
+
+Other possible changes
+* increasing RDS memory
+* using another RDS read replica per AZ to offload the read/write master database (possibly requiring application changes)

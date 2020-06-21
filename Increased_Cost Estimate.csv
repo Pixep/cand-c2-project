@@ -1,0 +1,17 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),Amazon RDS for MariaDB,0,2068.848,24826.18,USD,"Quantity (1), Storage volume (Provisioned IOPS SSD (io1)), Provisioning IOPS (1000), Storage amount (1000 GB per month), Instance type (db.r5.4xlarge)"
+My Estimate,US East (N. Virginia),Amazon EC2,0,2406.85,28882.20,USD,"Operating system (Linux), Quantity (16), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (50 GB), Provisioning IOPS (100), Instance type (t3a.2xlarge)"
+My Estimate,US East (N. Virginia),Amazon EC2,0,4110.67,49328.04,USD,"Operating system (Linux), Quantity (24), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (100 GB), Provisioning IOPS (100), Instance type (t3.2xlarge)"
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,157.86,1894.32,USD,Number of NAT Gateways (2)
+My Estimate,US East (N. Virginia),S3 Standard,0,412.1,4945.20,USD,S3 Standard storage (15 TB per month)
+My Estimate,US East (N. Virginia),S3 Standard - Infrequent Access,0,902.64,10831.68,USD,S3 Infrequent Access storage (50 TB per month)
+My Estimate,US East (Ohio),Amazon RDS for MariaDB,0,2068.848,24826.18,USD,"Quantity (1), Storage volume (Provisioned IOPS SSD (io1)), Provisioning IOPS (1000), Storage amount (1000 GB per month), Instance type (db.r5.4xlarge)"
+My Estimate,US East (Ohio),Amazon EC2,0,2406.85,28882.20,USD,"Operating system (Linux), Quantity (16), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (50 GB), Provisioning IOPS (100), Instance type (t3a.2xlarge)"
+My Estimate,US East (Ohio),Amazon EC2,0,4110.67,49328.04,USD,"Operating system (Linux), Quantity (24), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (100 GB), Provisioning IOPS (100), Instance type (t3.2xlarge)"
+My Estimate,US East (Ohio),Amazon Virtual Private Cloud (VPC),0,157.86,1894.32,USD,Number of NAT Gateways (2)
+My Estimate,US East (Ohio),S3 Standard,0,412.1,4945.20,USD,S3 Standard storage (15 TB per month)
+My Estimate,US East (Ohio),S3 Standard - Infrequent Access,0,902.64,10831.68,USD,S3 Infrequent Access storage (50 TB per month)
+
+
+
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
